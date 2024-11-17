@@ -6,6 +6,8 @@ Digital twin is a dynamic, virtual representation of a physical object, process,
 
 ## Repository (*Private)
 
+Code Repository:
+
 https://github.com/kukuu/digital-twin-v2
 
 This development covers:
@@ -16,19 +18,10 @@ Vercel to host connection and configuration to versioning and source control of 
 Updated UI to dynamically calculate the cost of Meter Reading cumulatively.
 [Video is coming soon]
 
-Code Repository:
-https://github.com/kukuu/digital-twin-v2
 
 Production (Hosted by Render on AWS Computing Service):
 https://digital-twin-v2-chi.vercel.app/
 
-Snapshots
-
-
-
-
-Preview:
-[Video is coming soon]
 
 Manually Create the Table: Go to your Supabase project, navigate to SQL Editor, and run the following SQL to create the readings table:
 
