@@ -26,12 +26,15 @@ i. Manually Create the Table: Go to your Supabase project, navigate to SQL Edito
 
 ii. 
 
+```
 CREATE TABLE readings (
   id SERIAL PRIMARY KEY,
   meter_id VARCHAR(255),
   reading FLOAT,
   timestamp TIMESTAMP
 );
+
+```
 
 iii.
 
