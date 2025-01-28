@@ -36,3 +36,12 @@ CREATE TABLE readings (
   timestamp TIMESTAMP
 );
 First open two terminals. Then CD into frontend and backend First you need to start the service by running : node server2.js Then start the react app by running : npm run start
+
+## V3
+
+1. Clerk or Kinde based Authentication workflows. Login prompt when the user is not signed-in. Before selecting the meter or when he clicks on the user.
+2. Calculation modal when Meter is selected. And then send the calculated data to the logged-in user.
+3. Ingestion of user custom data
+4. Processing of user data
+  
+
