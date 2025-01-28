@@ -8,11 +8,9 @@ Hosted by Render on AWS Computing Service.
 
 ### Production: https://digital-twin-v2-chi.vercel.app/
 
-### Repository (*Private) 
- 
-Code Repository: https://github.com/kukuu/digital-twin-v2
+### Code Repository (*Private) : https://github.com/kukuu/digital-twin-v2
 
-This development covers:
+### Summary:
 
 Cloud deployment and hosting to AWS computing services Render for interfacing.
 Superbase as ORM to host connection to Database and store environmental variables.
@@ -22,9 +20,9 @@ Updated UI to dynamically calculate the cost of Meter Reading cumulatively.
 
 ## Execution steps
 
-i. Manually Create the Table: Go to your Supabase project, navigate to SQL Editor, and run the following SQL to create the readings table:
+Manually Create the Table: Go to your Supabase project, navigate to SQL Editor, and run the following SQL to create the readings table:
 
-ii. 
+
 
 ```
 CREATE TABLE readings (
@@ -36,7 +34,7 @@ CREATE TABLE readings (
 
 ```
 
-iii.
+
 
 First open two terminals. Then CD into frontend and backend First you need to start the service by running : node server2.js Then start the react app by running : npm run start
 
