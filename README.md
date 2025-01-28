@@ -36,7 +36,28 @@ CREATE TABLE readings (
 
 
 
-First open two terminals. Then CD into frontend and backend First you need to start the service by running : node server2.js Then start the react app by running : npm run start
+First open two terminals:
+
+i. cd into frontend and then into backend 
+
+ii. Start the service by running : 
+
+```
+node server2.js
+
+
+```
+
+in the  backend
+
+iii. Then start the react app by running : 
+
+```
+npm run start
+
+```
+
+In the frontend.
 
 ## V3
 
