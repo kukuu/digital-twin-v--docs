@@ -73,6 +73,11 @@ In the frontend.
 6. Add **PAYMENT GATEWAY** to supplier. For now lets use c**onfigurations and USER requirement details from lovejoint.store** - https://www.lovejoint.store/
 
 ## V4
+
+Enabling real-time monitoring, optimisation, and predictive insights, improving efficiency, reducing costs, and enhancing decision-making.
+
+This high-volume throughput system exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
+
 https://github.com/kukuu/digital-twin-PV4-/blob/digi-twin-v1/README.md
   
 
