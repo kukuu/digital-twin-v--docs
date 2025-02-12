@@ -20,7 +20,7 @@ Cloud deployment and hosting to AWS computing services Render for interfacing.
 Superbase as ORM to host connection to Database and store environmental variables.
 Vercel to host connection and configuration to versioning and source control of code repository in GitHub.
 Updated UI to dynamically calculate the cost of Meter Reading cumulatively.
-[Video is coming soon]
+
 
 ## Execution steps
 
