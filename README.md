@@ -3,7 +3,7 @@
 Digital Twin
 Digital twin is a dynamic, virtual representation of a physical object, process, or system. It mirrors the real-world entity by continuously collecting data from sensors, IoT devices, and other sources. This data is then processed and analyzed to create a digital replica that accurately reflects the behavior, status, and condition of its physical counterpart. By leveraging advanced technologies such as artificial intelligence, machine learning, and predictive analytics, digital twins can simulate various scenarios and predict future outcomes. This enables stakeholders to monitor performance, diagnose issues, optimize processes, and make data-driven decisions in real-time.  
 
-## V2
+## V2 (Node/TypeScript)
 Hosted by Render on AWS Computing Service.
 
 ### Production: 
@@ -63,7 +63,7 @@ npm run start
 
 In the frontend.
 
-## V3
+## V3 (Node/TypeScript)
 
 1. **Clerk or Kinde based Authentication workflows**. Login prompt when the user is not signed-in. Before selecting the meter or when he clicks on the user.
 2. **Modal** to show selected Meter for updating/inserting consumed energy reading.
@@ -72,7 +72,7 @@ In the frontend.
 5. Send the calculated data to the logged-in user/Energy Supplier. For now set it to **alex@azzotto.com**
 6. Add **PAYMENT GATEWAY** to supplier. For now lets use c**onfigurations and USER requirement details from lovejoint.store** - https://www.lovejoint.store/
 
-## V4
+## V4 (Python/Node/TypeScript)
 
 Enabling real-time monitoring, optimisation, and predictive insights, improving efficiency, reducing costs, and enhancing decision-making.
 
