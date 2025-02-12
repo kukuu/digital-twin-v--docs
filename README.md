@@ -67,7 +67,7 @@ In the frontend.
 
 1. **Clerk or Kinde based Authentication workflows**. Login prompt when the user is not signed-in. Before selecting the meter or when he clicks on the user.
 2. **Modal** to show selected Meter for updating/inserting consumed energy reading.
-3. Calculated **TOTAL updates dynamically**
+3. **TOTAL updates dynamically**
 4. All fields in the MODAL are **read only except for the READING field which is READ/WRITE**
 5. Send the calculated data to the logged-in user/Energy Supplier. For now set it to **alex@azzotto.com**
 6. Add **PAYMENT GATEWAY** to supplier. For now lets use c**onfigurations and USER requirement details from lovejoint.store** - https://www.lovejoint.store/
