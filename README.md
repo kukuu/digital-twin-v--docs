@@ -98,7 +98,27 @@ Additionally, we will build a (3D Digital) Twin of their physical product, which
 - Aspirational Target: Build alerting system across their UK sites to alert the maintenance and engineering teams when human error has occurred, and when there are major issues that may have gone unidentified.
 
 
-#### Solution Design
+#### High-level Solution Pathway
+
+As part of the requirement-gathering process, I have identified key areas that need to be addressed with stakeholders. While the list below is not exhaustive, it serves as an initial framework that will continue to evolve as we progress through the discovery and requirement-gathering phases:
+1. _Key parameters that are being monitored._
+
+2. _Features/labels on their data._
+
+3. _What are the metrics that need to be optimized?_
+4. _Reports/charts they are interested in._
+5._ Operational workflows ( if possible) so that we can suggest for improvements_
+
+If we get the above requirements then we can proceed like this:
+
+1. _We will use python for data ingestion and exploratory data analysis.(EDA)_
+2. _For EDA we use Matplotlib and Seaborn plots for graphs and charts that will give some insights into our data sets._
+3._ We will then be able to identify important features and labels._
+4. _We can use Regression to perform predictions._
+5. _Assuming huge data sets we can also generate custom ML models to perform prediction._
+6. _In the Frontend we can show Charts/ Graphs._
+7. _We can develop a UI that will enable technicians to see simulation results for input parameters._
+8._ We will use Streamlit (python library best suited to showcase AI models-based simulations)._
 
 
   
