@@ -22,7 +22,7 @@ Vercel to host connection and configuration to versioning and source control of 
 Updated UI to dynamically calculate the cost of Meter Reading cumulatively.
 
 
-## Execution steps
+### Execution steps
 
 Manually Create the Table: Go to your Supabase project, navigate to SQL Editor, and run the following SQL to create the readings table:
 
