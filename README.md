@@ -79,5 +79,46 @@ Enabling real-time monitoring, optimisation, and predictive insights, improving 
 This high-volume throughput system exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
 
 https://github.com/kukuu/digital-twin-PV4-/blob/digi-twin-v1/README.md
+
+## Boiler 
+
+## Problem Statement - Gathered & Found
+Hi Alex,
+
+ 
+
+As mentioned here is a clearer insight into this particular engagement.
+
+ 
+
+- Phase One: Mobilise a small team to collate all data that the client has from the past 4 years to build a model and simulation of previous damage caused to their boiler and physical products. Once this is done, we can then look to create a predictive model to estimate when damage begins to occur, and when they should start to look at repairs or changing parts of the system.
+
+ 
+
+Additionally, we will build a 3D Digital Twin of their physical product, which will digest the data produced by the testers to create easily viewed images to show where the biggest causes for concern are, and where they need to act. A big issue for the tech org is that the board are non-technical, so spreadsheets don’t cut it. Even having a basic, but aesthetically pleasing image, would make for better board understanding and therefore potential future investment.
+
+ 
+
+- Phase Two: Once this is delivered and lands well, look to scale this solution across their other 4 UK sites (brand new projects), and bring the rest of the business into the new venture.
+
+ 
+
+- Phase Three: scale the product further past the boiler (biggest issue) and into their pressure tanks (second biggest issue) and then into the physical pipelines that produce the energy (third biggest).
+
+ 
+
+- Aspirational Target: Build alerting system across their UK sites to alert the maintenance and engineering teams when human error has occurred, and when there are major issues that may have gone unidentified.
+
+ 
+
+ 
+
+Best,
+
+Joe
+
+## Solution Design
+
+
   
 
