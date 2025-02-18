@@ -98,7 +98,7 @@ Additionally, we will build a (3D Digital) Twin of their physical product, which
 - Aspirational Target: Build alerting system across their UK sites to alert the maintenance and engineering teams when human error has occurred, and when there are major issues that may have gone unidentified.
 
 
-#### High-level Solution Pathway
+#### High-level Solution Design
 
 As part of the requirement-gathering process, I have identified key areas that need to be addressed with stakeholders. While the list below is not exhaustive, it serves as an initial framework that will continue to evolve as we progress through the discovery and requirement-gathering phases:
 1. _Key parameters that are being monitored._
