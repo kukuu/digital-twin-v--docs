@@ -82,7 +82,7 @@ https://github.com/kukuu/digital-twin-PV4-/blob/digi-twin-v1/README.md
 
 ## Boiler 
 
-## Problem Statement - Gathered & Found
+#### Problem Statement - Gathered & Found
 
 Here is a clearer insight into this particular engagement.
 
@@ -98,7 +98,7 @@ Additionally, we will build a 3D Digital Twin of their physical product, which w
 - Aspirational Target: Build alerting system across their UK sites to alert the maintenance and engineering teams when human error has occurred, and when there are major issues that may have gone unidentified.
 
 
-## Solution Design
+#### Solution Design
 
 
   
