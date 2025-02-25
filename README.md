@@ -63,7 +63,7 @@ npm run start
 
 In the frontend.
 
-## V3 (Node/TypeScript)
+## V3 (Node/TypeScript) - SPYDER
 
 1. **Clerk or Kinde based Authentication workflows**. Login prompt when the user is not signed-in. Before selecting the meter or when he clicks on the user.
 2. **Modal** to show selected Meter for updating/inserting consumed energy reading.
