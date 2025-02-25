@@ -72,7 +72,7 @@ In the frontend.
 5. Send the calculated data to the logged-in user/Energy Supplier. For now set it to **alex@azzotto.com**
 6. Add **PAYMENT GATEWAY** to supplier. For now lets use c**onfigurations and USER requirement details from lovejoint.store** - https://www.lovejoint.store/
 
-   Staging - https://digital-twin-neon.vercel.app/
+   **Staging** - https://digital-twin-neon.vercel.app/
 
 ## V4 (Python/Node/TypeScript)
 
