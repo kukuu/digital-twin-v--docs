@@ -74,7 +74,7 @@ In the frontend.
 
    **Staging** - https://digital-twin-neon.vercel.app/
 
-## V4 (Python/Node/TypeScript)
+## V4 (Python/Node/TypeScript) - Nut Cracker
 
 Enabling real-time monitoring, optimisation, and predictive insights, improving efficiency, reducing costs, and enhancing decision-making.
 
